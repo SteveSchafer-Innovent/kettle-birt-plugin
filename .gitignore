@@ -1,0 +1,7 @@
+bin/
+birt-lib
+classes/
+dist/
+eclipse
+lib/
+test-lib/
